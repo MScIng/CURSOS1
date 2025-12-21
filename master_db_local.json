@@ -9023,19 +9023,19 @@
         "videos": [
           {
             "title": "P. DE E. EN INGENIERÍA SÍSMICA Y EVALUACIÓN DE VULNERABILIDAD ESTRUCTURAL 27-06-2025",
-            "url": "https://www.youtube.com/watch?v=RTXT3TuvQTY&list=PLT9daTzy1hF-k7th1OAopr0or3uC4E5b4",
+            "url": "https://www.youtube.com/watch?v=RTXT3TuvQTY",
             "type": "youtube",
             "duration": null
           },
           {
             "title": "P. DE E. EN INGENIERÍA SÍSMICA Y EVALUACIÓN DE VULNERABILIDAD ESTRUCTURAL 03-07-2025",
-            "url": "https://www.youtube.com/watch?v=iOvk_jHkCN8&list=PLT9daTzy1hF-k7th1OAopr0or3uC4E5b4",
+            "url": "https://www.youtube.com/watch?v=iOvk_jHkCN8",
             "type": "youtube",
             "duration": null
           },
           {
             "title": "P. DE E. EN INGENIERÍA SÍSMICA Y EVALUACIÓN DE VULNERABILIDAD ESTRUCTURAL 07-07-2025",
-            "url": "https://www.youtube.com/watch?v=pLLT4fcsmnk&list=PLT9daTzy1hF-k7th1OAopr0or3uC4E5b4",
+            "url": "https://www.youtube.com/watch?v=pLLT4fcsmnk",
             "type": "youtube",
             "duration": null
           }
@@ -9046,3 +9046,4 @@
   }
 
 ]
+
